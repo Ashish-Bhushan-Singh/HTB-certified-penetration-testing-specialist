@@ -15,7 +15,7 @@ This file tracks progress through the CPTS learning path and the documentation m
 
 | No. | Module | Module Status | Questions Documented | Lab Status |
 |---|---|---|---|---|
-| 01 | Penetration Testing Process | NOT STARTED | 0 | NOT STARTED |
+| 01 | Penetration Testing Process | IN PROGRESS | 5 | NOT STARTED |
 | 02 | Getting Started | NOT STARTED | 0 | NOT STARTED |
 | 03 | Network Enumeration with Nmap | NOT STARTED | 0 | NOT STARTED |
 | 04 | Footprinting | NOT STARTED | 0 | NOT STARTED |
@@ -93,6 +93,6 @@ Question counts must reflect actual documented questions, not estimates.
 
 | Date | Module | Activity | Result |
 |---|---|---|---|
-| YYYY-MM-DD | Repository Setup | Created repository and root README | Completed |
+| 2026-10-30 | Module 01 | Documented Sections 07, 09, 11, and 14; recorded five questions | Documentation drafted; review pending |
 
 Update this log as work progresses.
